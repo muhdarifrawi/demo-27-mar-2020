@@ -1,0 +1,32 @@
+button {
+    color:white;
+    background-color:rgba(123,23,43,0.5);
+    position:absolute;
+    top:500px;
+    left:300px;
+}
+
+body{
+
+}
+
+/* Classes */
+
+.box{
+    height:50px; 
+    width:50px;
+}
+
+.blue{
+    background-color: blue;
+}
+
+/* id */
+
+#red{
+    background-color: red;
+}
+
+.flexy{
+    display:flex;
+}
